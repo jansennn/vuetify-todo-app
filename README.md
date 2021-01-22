@@ -18,4 +18,4 @@ npm run build
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
 
-<img src="SS/video.jpeg" height="300em" />
+<img src="SS/video.mp4" height="300em" />
